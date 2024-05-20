@@ -4,7 +4,7 @@ h2 {
     font-size: 32px;
     font-weight: bold;
 }
-div {
+#black {
     color: yellow;
     background-color: violet;
     height: 300px;
