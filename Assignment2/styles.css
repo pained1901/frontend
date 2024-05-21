@@ -6,27 +6,32 @@ h2 {
 }
 
 #black {
-    color: yellow;
-    background-color: violet;
-    height: 700px;
-    margin: 10px;
+    color: black;
+    height: fill-box;
+    margin: 0.05pxpx;
     border: 1px solid green;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
 }
 
 .blue {
     height: 200px;
-    background-color: blue;
+    background-color: whitesmoke;
     width: 100%;
-    background: orange;
-    margin: 10px;
-    color: aqua;
+    background: yellow;
+    margin: 0.05pxpx;
+    color: black;
     text-align: center;
+    font-weight: 350px;
+    border: 1px solid green;
 }
 
 h1 {
-    color: #2d4e47;
-    font-family: sans-serif, "Times New Roman";
+    color: darkred;
+    font-family: firebrick;
     font-weight: 1000;
+    text-align: center;
 }
 
 html {
@@ -35,6 +40,15 @@ html {
 
 .image {
     text-align: center;
-    height: 600%;
-    width: 1000px;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+#heading {
+    text-align: center;
+}
+#texts {
+    font-size: 20px;
+    font-weight: bold;
 }
