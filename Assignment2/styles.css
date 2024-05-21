@@ -9,29 +9,32 @@ h2 {
     color: yellow;
     background-color: violet;
     height: 700px;
-    width: 700px;
     margin: 10px;
-    padding: 10px;
     border: 1px solid green;
 }
 
 .blue {
     height: 200px;
-    background-color: grey;
-    width: fit-content;
+    background-color: blue;
+    width: 100%;
     background: orange;
-    padding: 10px;
     margin: 10px;
     color: aqua;
+    text-align: center;
 }
 
 h1 {
-    color: aliceblue;
+    color: #2d4e47;
+    font-family: sans-serif, "Times New Roman";
+    font-weight: 1000;
 }
 
 html {
-    background-color: grey;
+    background-color: #eaa9a9;
 }
-img {
-    heig
+
+#img {
+    text-align: center;
+    height: 600%;
+    width: 1000px;
 }
