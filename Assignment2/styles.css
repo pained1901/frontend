@@ -4,6 +4,7 @@ h2 {
     font-size: 32px;
     font-weight: bold;
 }
+
 #black {
     color: yellow;
     background-color: violet;
@@ -13,12 +14,24 @@ h2 {
     padding: 10px;
     border: 1px solid green;
 }
+
 .blue {
-    height: 800px;
+    height: 200px;
     background-color: grey;
     width: fit-content;
     background: orange;
     padding: 10px;
     margin: 10px;
     color: aqua;
+}
+
+h1 {
+    color: aliceblue;
+}
+
+html {
+    background-color: grey;
+}
+img {
+    heig
 }
