@@ -48,7 +48,7 @@ html {
 #heading {
     text-align: center;
 }
-#texts {
+.texts {
     font-size: 20px;
-    font-weight: bold;
+    font-weight: 350px;
 }
